@@ -5,7 +5,8 @@ One of the more difficult things needed to run a class of hundreds of students i
 
 ## Office Hours
 
-We will have an [[Office Hours Schedule]] updated on the second week of class.  It's best if you arrive toward the beginning of the session.
+Office hours are held after class and on Monday during the class session.  (Most Mondays are set aside for coding practice and to work together solving the problems.)
+
 ## CampusWire
 
 You are probably familiar with it.  This is a general question-and-answer forum.  You may ask questions here and remain anonymous to your fellow students, but the course staff will see your real name.  We will also make urgent announcements here (e.g. if we have to cancel class); though we will copy that message via email.

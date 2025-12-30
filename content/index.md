@@ -1,5 +1,5 @@
 ---
-title: Welcome to CS 491 CAP (Fall 2025)!
+title: Welcome to CS 491 CAP (Spring 2026)!
 ---
 
 ## Quick Links

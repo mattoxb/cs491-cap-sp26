@@ -1,55 +1,51 @@
 ---
 title: Lecture Schedule
 ---
-
-The links that are live are ready for view.  Unlinked ones are still
-accessible from the side menu; they are typically from a previous
-semester.
-
-
-| Week | Date               | Lecture                                                  |
-|------|--------------------|----------------------------------------------------------|
-| 1    | August 25, 2025    | [[Course Introduction]]                                  |
-|      | August 27, 2025    | [[IO]]                                                   |
-|      | August 29, 2025    | [[Complete Search]]                                      |
-| 2    | September 1, 2025  | Coding Session                                           |
-|      | September 3, 2025  | [[Divide and Conquer]]                                   |
-|      | September 5, 2025  | [[Disjoint Sets]]                                        |
-| 3    | September 8, 2025  | Special Topic                                            |
-|      | September 10, 2025 | [[Single Source Shortest Path]]                          |
-|      | September 12, 2025 | [[Floyd-Warshall]]                                       |
-| 4    | September 15, 2025 | Special Topics (Advanced Graphs)                         |
-|      | September 17, 2025 | [[Trees]]                                                |
-|      | September 19, 2025 | [[Strongly Connected Components]]                        |
-| 5    | September 22, 2025 | Coding Session                                           |
-|      | September 24, 2025 | [[Kruskal's Algorithm]]                                  |
-|      | September 26, 2025 | [[Bit Manipulation]]                                     |
-| 6    | September 29, 2025 | Coding Session                                           |
-|      | October 1, 2025    | [[Sqrt Decomposition]]                                   |
-|      | October 3, 2025    | [[Segment Trees]]                                        |
-| 7    | October 6, 2025    | Coding Session                                           |
-|      | October 8, 2025    | [[Lazy Segment Trees]]                                   |
-|      | October 10, 2025   | [[Fenwick Trees]]                                        |
-| 8    | October 13, 2025   | Advanced Data Structures (Special Topic)                 |
-|      | October 15, 2025   | [[Greedy Algorithms]]                                    |
-|      | October 17, 2025   | [[Dynamic Programming]]                                  |
-| 9    | October 20, 2025   | Coding Session                                           |
-|      | October 22, 2025   | DP: [[Longest Common Sequence]]                          |
-|      | Ocotber 24, 2025   | [[DP Palindromes]]                                       |
-| 10   | October 27, 2025   | DP: TSP (Special Topic)                                  |
-|      | October 29, 2025   | [[DP Edit Distance]]                                     |
-|      | October 31, 2025   | [[DP Knapsack]]                                          |
-| 11   | November 3, 2025   | Coding Session                                           |
-|      | November 5, 2025   | [[Tree DP]]                                              |
-|      | November 7, 2025   | [[DP KMP]]                                               |
-| 12   | November 10, 2025  | Coding Session                                           |
-|      | November 12, 2025  | [[Rabin Karp]]                                           |
-|      | November 14, 2025  | [[Primes and GCD]]                                       |
-| 13   | November 17, 2025  | [[Fermat's Little Theorem and Euler's Totient Function]] |
-|      | November 19, 2025  | [[Combinatorics]]                                        |
-|      | November 21, 2025  | No Class                                                 |
-| 14   | December 1, 2025   | Coding Session                                           |
-|      | December 3, 2025   | [[Points, Lines, Vectors, Shapes]]                     |
-|      | December 5, 2025   | Geometry: Convex Hull                                    |
-| 15   | December 8, 2025   | Geometry: Line Sweep (Special Topic)                     |
-|      | December 10, 2025  | Coding Session / Special Topic                           |
+| Week | Date              | Lecture                                                  |
+|------|-------------------|----------------------------------------------------------|
+| 1    | January 21, 2026  | [[Course Introduction]]                                  |
+|      | January 23, 2026  | [[IO]]                                                   |
+| 2    | January 26, 2026  | [[Complete Search]]                                      |
+|      | January 28, 2026  | [[Divide and Conquer]]                                   |
+|      | January 30, 2026  | [[Disjoint Sets]]                                        |
+| 3    | February 2, 2026  | Special Topic                                            |
+|      | February 4, 2026  | [[Single Source Shortest Path]]                          |
+|      | February 6, 2026  | [[Floyd-Warshall]]                                       |
+| 4    | February 9, 2026  | Special Topics (Advanced Graphs)                         |
+|      | February 11, 2026 | [[Trees]]                                                |
+|      | February 13, 2026 | [[Strongly Connected Components]]                        |
+| 5    | February 16, 2026 | Coding Session                                           |
+|      | February 18, 2026 | [[Kruskal's Algorithm]]                                  |
+|      | February 20, 2026 | [[Bit Manipulation]]                                     |
+| 6    | February 23, 2026 | Coding Session                                           |
+|      | February 25, 2026 | [[Sqrt Decomposition]]                                   |
+|      | February 27, 2026 | [[Segment Trees]]                                        |
+| 7    | March 2, 2026     | Coding Session                                           |
+|      | March 4, 2026     | [[Lazy Segment Trees]]                                   |
+|      | March 6, 2026     | [[Fenwick Trees]]                                        |
+| 8    | March 9, 2026     | Advanced Data Structures (Special Topic)                 |
+|      | March 11, 2026    | [[Greedy Algorithms]]                                    |
+|      | March 13, 2026    | [[Dynamic Programming]]                                  |
+| 9    | March 16, 2026    | Spring Break                                             |
+|      | March 18, 2026    | Spring Break                                             |
+|      | March 20, 2026    | Spring Break                                             |
+| 9    | March 23, 2026    | Coding Session                                           |
+|      | March 25, 2026    | [[Longest Common Sequence]]                              |
+|      | March 27, 2026    | [[DP Palindromes]]                                       |
+| 10   | March 30, 2026    | Coding Session                                           |
+|      | April 1, 2026     | DP: TSP (Special Topic)                                  |
+|      | April 3, 2026     | [[DP Edit Distance]]                                     |
+| 11   | April 6, 2026     | Coding Session                                           |
+|      | April 8, 2026     | [[DP Knapsack]]                                          |
+|      | April 10, 2026    | [[Tree DP]]                                              |
+| 12   | April 13, 2026    | Coding Session                                           |
+|      | April 15, 2026    | [[DP KMP]]                                               |
+|      | April 17, 2026    | [[Rabin Karp]]                                           |
+| 13   | April 20, 2026    | Coding Session                                           |
+|      | April 22, 2026    | [[Primes and GCD]]                                       |
+|      | April 24, 2026    | [[Fermat's Little Theorem and Euler's Totient Function]] |
+| 14   | April 27, 2026    | Coding Session                                           |
+|      | April 29, 2026    | [[Combinatorics]]                                        |
+|      | May 1, 2026       | [[Points, Lines, Vectors, Shapes]]                       |
+| 15   | May 4, 2026       | Coding Session                                           |
+|      | May 6, 2026       | [[Geometry: Convex Hull]]                                |
