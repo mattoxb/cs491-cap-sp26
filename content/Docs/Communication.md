@@ -1,30 +1,35 @@
 One of the more difficult things needed to run a class of hundreds of students is managing communication.  Fortunately it's easy to manage if we use the technology efficiently.  There are three primary ways of communicating with course staff:
 - Office hours
-- CampusWire
+- Discord
 - Email
 
 ## Office Hours
 
 Office hours are held after class and on Monday during the class session.  (Most Mondays are set aside for coding practice and to work together solving the problems.)
 
-## CampusWire
+## Discord
+
+You are probably familiar with it. Please set up an account [here](https://discord.com/), if you dont already have one. Discord is a messaging platform. You may communicate with course staff/classmates here, and are encouraged to ask questions!
+
+<!-- ## CampusWire
 
 You are probably familiar with it.  This is a general question-and-answer forum.  You may ask questions here and remain anonymous to your fellow students, but the course staff will see your real name.  We will also make urgent announcements here (e.g. if we have to cancel class); though we will copy that message via email.
 
-The forum is the place to go for questions about content and for setting up your coding environment.  It *might* be okay for code related questions, but these are better handled in office hours.
+The forum is the place to go for questions about content and for setting up your coding environment.  It *might* be okay for code related questions, but these are better handled in office hours. -->
 ### Etiquette
 - Of course, we expect and require everyone to follow the [[Syllabus#Code of Conduct|Code of Conduct]].
-- The strength of a forum is that if you have a question, odds are strong that others have the same question.  Even better, there's always a few students in the class who get a bigger adrenaline rush answering questions on the forum than most people get from 1000 likes on TikTok.   Therefore you should do these three things:
+- The strength of a forum is that if you have a question, odds are strong that others have the same question. Therefore you should do these three things:
 	- **Always search before posting** 
-	- **Make your post public**  --- You can be anonymous to the other classmates if you want.
 	- **Be clear about what you are asking** 
 		- If you are getting an error describe best you can what you did before the error happened and what the error message was.
-		- If you are having trouble with a homework or MP, tell us exactly which question.
+		- If you are having trouble with a homework, tell us exactly which question.
 - Don't post code.  If you have code questions, you should use office hours for that.
 ### Joining
 
-Invitation Link: https://campuswire.com/p/GF226FB70
-Code: 6821
+Join link (soon)
+
+<!-- Invitation Link: https://campuswire.com/p/GF226FB70
+Code: 6821 -->
 
 ## Good Reasons to Email the Prof
 

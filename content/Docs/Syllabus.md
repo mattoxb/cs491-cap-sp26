@@ -2,15 +2,15 @@
 
 -   Course Title: Introduction to Competitive Programming
 -   Rubric: CS 491 CAP
--   Dates:  August 25, 2025 to December 10, 2025
--   Time: 15:30 MWF
--   Location: 2120 Everett
+-   Dates: January 20th 2026 to May 6th, 2026
+-   Time: 02:00PM - 02:50PM 
+-   Location: 2310 Everitt Laboratory
 -   Instructor: Mattox Beckman
 -   Recommended Textbooks:
     -   [Competitive Programming 4](https://cpbook.org)
     -   [Guide to Competitive Programming](https://link.springer.com/book/10.1007/978-3-319-72547-5)
 -   Prerequisites: CS 225.  We will use C++ for our content, but you are welcome to use a different language.
--   Office Hours: TBA
+-   Office Hours: Every Monday during usual class time/location. 
 
 ## Purpose
 
