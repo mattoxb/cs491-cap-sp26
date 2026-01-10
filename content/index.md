@@ -13,7 +13,7 @@ CS491-CAP is a 3 credit S/U course designed and taught by International Collegia
 
 ## Additional Resources
 - [[Resources]]
-- [[How to Succeed in this Course]] (Coming soon)
+- [[How to Succeed|How to Succeed in this Course]] 
 
 ## Course Staff
 - Canchen Li
