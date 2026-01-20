@@ -26,7 +26,7 @@ The forum is the place to go for questions about content and for setting up your
 - Don't post code.  If you have code questions, you should use office hours for that.
 ### Joining
 
-Join link (soon)
+Invitation Link: [here](https://discord.gg/EzyYe8wbfm)
 
 <!-- Invitation Link: https://campuswire.com/p/GF226FB70
 Code: 6821 -->
