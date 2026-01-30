@@ -5,13 +5,13 @@ title: Lecture Schedule
 |------|-------------------|----------------------------------------------------------|
 | 1    | January 21, 2026  | [[Course Introduction]]                                  |
 |      | January 23, 2026  | [[IO]]                                                   |
-| 2    | January 26, 2026  | [[Complete Search]]                                      |
+| 2    | January 26, 2026  | [[Disjoint Sets]]                                        |
 |      | January 28, 2026  | [[Divide and Conquer]]                                   |
-|      | January 30, 2026  | [[Disjoint Sets]]                                        |
-| 3    | February 2, 2026  | Special Topic                                            |
+|      | January 30, 2026  | [[Complete Search]]                                      |
+| 3    | February 2, 2026  | Coding Session                                           |
 |      | February 4, 2026  | [[Single Source Shortest Path]]                          |
 |      | February 6, 2026  | [[Floyd-Warshall]]                                       |
-| 4    | February 9, 2026  | Special Topics (Advanced Graphs)                         |
+| 4    | February 9, 2026  | Coding Session                                           |
 |      | February 11, 2026 | [[Trees]]                                                |
 |      | February 13, 2026 | [[Strongly Connected Components]]                        |
 | 5    | February 16, 2026 | Coding Session                                           |
@@ -23,7 +23,7 @@ title: Lecture Schedule
 | 7    | March 2, 2026     | Coding Session                                           |
 |      | March 4, 2026     | [[Lazy Segment Trees]]                                   |
 |      | March 6, 2026     | [[Fenwick Trees]]                                        |
-| 8    | March 9, 2026     | Advanced Data Structures (Special Topic)                 |
+| 8    | March 9, 2026     | Coding Session                                           |
 |      | March 11, 2026    | [[Greedy Algorithms]]                                    |
 |      | March 13, 2026    | [[Dynamic Programming]]                                  |
 | 9    | March 16, 2026    | Spring Break                                             |
@@ -33,7 +33,7 @@ title: Lecture Schedule
 |      | March 25, 2026    | [[Longest Common Sequence]]                              |
 |      | March 27, 2026    | [[DP Palindromes]]                                       |
 | 10   | March 30, 2026    | Coding Session                                           |
-|      | April 1, 2026     | DP: TSP (Special Topic)                                  |
+|      | April 1, 2026     | Coding Session                                           |
 |      | April 3, 2026     | [[DP Edit Distance]]                                     |
 | 11   | April 6, 2026     | Coding Session                                           |
 |      | April 8, 2026     | [[DP Knapsack]]                                          |
