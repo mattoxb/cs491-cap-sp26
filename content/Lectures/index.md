@@ -14,16 +14,16 @@ title: Lecture Schedule
 | 4    | February 9, 2026  | Coding Session                                           |
 |      | February 11, 2026 | [[Trees]]                                                |
 |      | February 13, 2026 | [[Strongly Connected Components]]                        |
-| 5    | February 16, 2026 | Coding Session                                           |
+| 5    | February 16, 2026 | Special Topic                                            |
 |      | February 18, 2026 | [[Kruskal's Algorithm]]                                  |
 |      | February 20, 2026 | [[Bit Manipulation]]                                     |
-| 6    | February 23, 2026 | Coding Session                                           |
+| 6    | February 23, 2026 | Special Topic                                            |
 |      | February 25, 2026 | [[Sqrt Decomposition]]                                   |
 |      | February 27, 2026 | [[Segment Trees]]                                        |
-| 7    | March 2, 2026     | Coding Session                                           |
+| 7    | March 2, 2026     | Special Topic                                            |
 |      | March 4, 2026     | [[Lazy Segment Trees]]                                   |
 |      | March 6, 2026     | [[Fenwick Trees]]                                        |
-| 8    | March 9, 2026     | Coding Session                                           |
+| 8    | March 9, 2026     | Special Topic                                            |
 |      | March 11, 2026    | [[Greedy Algorithms]]                                    |
 |      | March 13, 2026    | [[Dynamic Programming]]                                  |
 | 9    | March 16, 2026    | Spring Break                                             |
