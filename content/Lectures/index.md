@@ -21,11 +21,11 @@ title: Lecture Schedule
 |      | February 25, 2026 | [[Sqrt Decomposition]]                                   |
 |      | February 27, 2026 | [[Segment Trees]]                                        |
 | 7    | March 2, 2026     | Special Topic                                            |
-|      | March 4, 2026     | [[Lazy Segment Trees]]                                   |
+|      | March 4, 2026     | [[Lazy Segment Trees]] - In-class Fun Contest            |
 |      | March 6, 2026     | [[Fenwick Trees]]                                        |
-| 8    | March 9, 2026     | Special Topic                                            |
-|      | March 11, 2026    | [[Greedy Algorithms]]                                    |
-|      | March 13, 2026    | [[Dynamic Programming]]                                  |
+| 8    | March 9, 2026     | [[Greedy Algorithms]]                                    |
+|      | March 11, 2026    | [[Dynamic Programming]]                                  |
+|      | March 13, 2026    | Special Topic                                            |
 | 9    | March 16, 2026    | Spring Break                                             |
 |      | March 18, 2026    | Spring Break                                             |
 |      | March 20, 2026    | Spring Break                                             |
