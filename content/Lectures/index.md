@@ -33,19 +33,19 @@ title: Lecture Schedule
 |      | March 25, 2026    | [[Longest Common Sequence]]                              |
 |      | March 27, 2026    | [[DP Palindromes]]                                       |
 | 10   | March 30, 2026    | Coding Session                                           |
-|      | April 1, 2026     | Coding Session                                           |
-|      | April 3, 2026     | [[DP Edit Distance]]                                     |
+|      | April 1, 2026     | [[DP Edit Distance]]                                     | 
+|      | April 3, 2026     | [[DP Knapsack]]                                          |
 | 11   | April 6, 2026     | Coding Session                                           |
-|      | April 8, 2026     | [[DP Knapsack]]                                          |
-|      | April 10, 2026    | [[Tree DP]]                                              |
+|      | April 8, 2026     | [[Tree DP]]                                              | 
+|      | April 10, 2026    | [[DP KMP]]                                               |
 | 12   | April 13, 2026    | Coding Session                                           |
-|      | April 15, 2026    | [[DP KMP]]                                               |
-|      | April 17, 2026    | [[Rabin Karp]]                                           |
+|      | April 15, 2026    | [[Rabin Karp]]                                           |
+|      | April 17, 2026    | [[Primes and GCD]]                                       |
 | 13   | April 20, 2026    | Coding Session                                           |
-|      | April 22, 2026    | [[Primes and GCD]]                                       |
-|      | April 24, 2026    | [[Fermat's Little Theorem and Euler's Totient Function]] |
+|      | April 22, 2026    | [[Fermat's Little Theorem and Euler's Totient Function]] |
+|      | April 24, 2026    | [[Combinatorics]]                                        |
 | 14   | April 27, 2026    | Coding Session                                           |
-|      | April 29, 2026    | [[Combinatorics]]                                        |
-|      | May 1, 2026       | [[Points, Lines, Vectors, Shapes]]                       |
+|      | April 29, 2026    | [[Points, Lines, Vectors, Shapes]]                       |
+|      | May 1, 2026       | [[Geometry: Convex Hull]]                                |
 | 15   | May 4, 2026       | Coding Session                                           |
-|      | May 6, 2026       | [[Geometry: Convex Hull]]                                |
+|      | May 6, 2026       | [[Line Sweep]]
