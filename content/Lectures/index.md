@@ -37,7 +37,7 @@ title: Lecture Schedule
 |      | April 3, 2026     | [[DP Knapsack]]                                          |
 | 11   | April 6, 2026     | Coding Session                                           |
 |      | April 8, 2026     | [[Tree DP]]                                              | 
-|      | April 10, 2026    | [[DP KMP]]                                               |
+|      | April 10, 2026    | [[Knuth Morris Pratt]]                                   |
 | 12   | April 13, 2026    | Coding Session                                           |
 |      | April 15, 2026    | [[Rabin Karp]]                                           |
 |      | April 17, 2026    | [[Primes and GCD]]                                       |
